@@ -8,9 +8,6 @@ This user manual provides step-by-step instructions for using the `setup-xrdp.sh
 
 ### Table of Contents
 
-- [User Manual for the `setup-xrdp.sh` Script](#user-manual-for-the-setup-xrdpsh-script)
-  - [Repository: debian-xrdp-setup](#repository-debian-xrdp-setup)
-- [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [System Requirements](#system-requirements)
 - [Pre-requisites](#pre-requisites)
