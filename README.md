@@ -1,8 +1,13 @@
+# Debian-XRDP-setup ⚡️ [![GitHub](https://img.shields.io/github/license/kusal-tharindu/debian-xrdp-setup?color=blue)](https://github.com/kusal-tharindu/debian-xrdp-setup/blob/main/LICENSE) ![GitHub stars](https://img.shields.io/github/stars/kusal-tharindu/debian-xrdp-setup) ![GitHub forks](https://img.shields.io/github/forks/kusal-tharindu/debian-xrdp-setup) 
+
+<h2 align="center">
+  <img src="/readme-img/readme.png" alt="Debian-XRDP-setup" width="600px" />
+  <br>
+</h2>
+
 ### User Manual for the `setup-xrdp.sh` Script
 
-This user manual provides step-by-step instructions for using the `setup-xrdp.sh` script to set up XRDP on various Debian-based desktop systems.
-
-#### Repository: debian-xrdp-setup
+The `setup-xrdp.sh` script is designed to automate the installation and configuration of XRDP on various Debian-based desktop systems. XRDP is an open-source implementation of the Microsoft Remote Desktop Protocol (RDP), which allows you to access your desktop environment remotely from another computer.
 
 ---
 
