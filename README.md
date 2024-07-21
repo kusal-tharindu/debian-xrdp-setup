@@ -132,3 +132,51 @@ If you encounter any issues during the installation, refer to the following log 
 ---
 
 By following this user manual, you should be able to easily set up XRDP on your Debian-based desktop system and remotely connect to it using an RDP client.
+
+---
+## Authors ✍
+
+- **`Kusal Tharindu`**
+- <img src="https://kusal.dtk2globle.com/assets/images/logo/last.png" height="20"/>&nbsp; [- **Kusal Tharindu**]([https://github.com/sasinduKKarunarathna](https://github.com/kusal-tharindu)) 
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kusal-tharindu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tharindu_kusal) [![GitHub](https://img.shields.io/badge/github-%231DA1F2.svg?logo=github&logoColor=black)](https://github.com/kusal-tharindu)
+
+## Wanna read my articles?
+
+* <img src="https://kusal.dtk2globle.com/assets/images/logo/last.png" height="20"/>&nbsp; [Portfolio](https://kusal.dtk2globle.com/)
+* <img src="https://1.bp.blogspot.com/-FAZt0e1ahsk/YJVuGsoDC1I/AAAAAAAAAI8/KNj3GmSpX6AI-tsXnBHWjRqaycmM8PH4gCK4BGAYYCw/s1600/DTK%2B%25281%2529.png" height="20"/>&nbsp; [Personal Blog](https://blog.dtk2globle.com/)
+
+---
+
+## License 📄
+
+This project is licensed under the MIT License.
+
+Find out more details: [LICENSE.md](https://github.com/kusal-tharindu/debian-xrdp-setup/blob/main/LICENSE)
+
+---
+## Fair Use Act Disclaimer 🛑 
+
+This project is for educational purposes only.
+
+Fair Use
+Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.
+
+Find out more details: [Disclaimer.md](https://github.com/kusal-tharindu/debian-xrdp-setup/blob/main/Disclaimer.md)
+
+---
+## Acknowledgments 🎁
+
+I was motivated to create this project because I wanted to contribute on something useful for the dev community.
+
+Many thanks to all my contributors who helped make this project a reality.
+
+---
+## You can help me by Donating 💰
+
+  <a href="https://www.buymeacoffee.com/kusal26" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45px" ></a>
+   
+---
+## Contact Me 📞
+If you have any questions about this Privacy Policy, You can contact us:
+- By email: contact@dtk2globle.com
